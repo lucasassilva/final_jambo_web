@@ -1,0 +1,310 @@
+/*
+*** Variáveis
+**/
+
+:root {
+  --black: #000;
+  --white: #fff;
+  --orange: #ff9800;
+  --gray: #777777;
+  --light-gray: #dddddd;
+  --blue: #168eea;
+  --ocean-green: #12b88e;
+  --green: #5f980a;
+  --red: #ff0000;
+  --bg-default: linear-gradient(to right, #12b88e, #a0d94c);
+}
+
+/*
+*** Estrutura do Documento
+**/
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/*
+*** Corpo do Documento
+**/
+
+header {
+  background: url(../img/fundo/wallpaper.jpg) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 126px 0 170px;
+  width: 100%;
+}
+
+section {
+  padding: 150px 0;
+}
+
+.text-indent {
+  text-indent: 20px;
+}
+
+.text-default {
+  color: var(--ocean-green);
+}
+
+.text-danger {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+/*
+*** Cabeçalho
+**/
+
+.intro h1 {
+  font-family: 'Montserrat Regular';
+  font-size: 80px;
+}
+
+.intro h1 > span {
+  font-size: 80px;
+  font-family: 'Montserrat Regular';
+  color: var(--ocean-green);
+}
+
+.text-intro {
+  font-family: 'Droid Serif Regular';
+  font-size: 25px;
+}
+
+/*
+*** Menu de Navegação
+**/
+
+.bg-default {
+  background-image: var(--bg-default);
+}
+
+.navbar-nav li {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 22px;
+}
+
+.navbar-nav a {
+  margin-right: 20px;
+}
+
+#nav-item-hr {
+  border-top: 1px solid;
+}
+
+.navbar-brand {
+  margin-left: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.navbar-nav .nav-item a:hover {
+  background-color: var(--black);
+}
+
+.navbar.fixed-left {
+  overflow-y: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.navbar.fixed-left::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+#social-fb,
+#social-tw,
+#social-gp {
+  color: var(--black);
+}
+
+#social-gp:hover,
+#social-tw:hover,
+#social-fb:hover {
+  color: var(--white);
+}
+
+/*
+*** Dispositivos Extra Pequenos (<768px)
+**/
+
+@media (min-width: 0px) and (max-width: 767.98px) {
+  .navbar-brand img {
+    width: 50px;
+    height: 50px;
+  }
+  .navbar-nav li {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+  }
+  .intro h1 {
+    font-size: 70px;
+  }
+  .intro h1 > p {
+    font-size: 70px;
+  }
+  #full-screen-spin::after {
+    display:block;
+    margin-right: auto;
+    margin-left: -95px;
+    margin-top: -15%;
+  }
+}
+
+/*
+*** Dispositivos Médios (>768px & 1024px)
+**/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  #team img {
+    width: 100%;
+  }
+}
+
+/*
+*** Botão de Download
+**/
+
+.btn-store {
+  color: var(--gray);
+  min-width: 254px;
+  padding: 12px 20px;
+  border-color: var(--light-gray);
+}
+
+.btn-store:focus,
+.btn-store:hover {
+  color: var(--white);
+  background-color: var(--black);
+  border-color: var(--blue);
+}
+
+.btn-store .btn-caption {
+  font-size: 24px;
+}
+
+/*
+*** Formulário de Contato
+**/
+
+textarea {
+  resize: none;
+}
+
+textarea:focus,
+textarea.form-control:focus,
+input.form-control:focus,
+input[type='text']:focus,
+input[type='password']:focus,
+input[type='email']:focus,
+input[type='number']:focus,
+[type='text'].form-control:focus,
+[type='password'].form-control:focus,
+[type='email'].form-control:focus,
+[type='tel'].form-control:focus,
+[contenteditable].form-control:focus {
+  -webkit-box-shadow: inset 0 -2px 0 var(--ocean-green);
+  box-shadow: inset 0 -2px 0 var(--ocean-green);
+}
+
+input.ng-invalid.ng-dirty:required,
+textarea.ng-invalid.ng-dirty:required {
+  -webkit-box-shadow: inset 0 -2px 0 var(--red);
+  box-shadow: inset 0 -2px 0 var(--red);
+}
+
+input.ng-invalid.ng-dirty::placeholder,
+textarea.ng-invalid.ng-dirty::placeholder {
+  color: var(--red);
+  font-weight: bold;
+}
+
+/*
+*** Serviços
+**/
+
+svg{
+  background-image: linear-gradient(to top left,#12b88e, #a0d94c);
+  border-radius: 10%;
+  padding: 25px;
+}
+
+svg:hover{
+  zoom: 1.025;
+  cursor: pointer;
+}
+
+/*
+*** Tela de carregamento
+**/
+
+#full-screen-spin{
+  position:fixed;
+  width:100%;
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  background-color: rgba(168, 168, 168, 0.7);
+  z-index:99999;
+  display:none;
+}
+
+@-webkit-keyframes spin {
+  from {
+    -webkit-transform:rotate(0deg);
+  }
+  to {
+    -webkit-transform:rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }
+}
+
+#full-screen-spin::after {
+  content:'';
+  display:block;
+  position:relative;
+  top: 34%;
+  left:52%;
+  width:170px;
+  height:170px;
+  border-style:solid;
+  border-color:var(--ocean-green);
+  border-top-color:transparent;
+  border-width: 4px;
+  border-radius:50%;
+  -webkit-animation: spin .8s linear infinite;
+  animation: spin .8s linear in inite;
+}
+
+/*img{
+  cursor: pointer;
+  transition-property: border-radius;
+  transition-duration: 2s;
+  transition-delay: 1s;
+  transition-timing-function: ease-in-out;
+}
+
+img:hover{
+  border-radius: 25%;
+}*/

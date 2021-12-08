@@ -1,0 +1,65 @@
+/*
+    Fontes do documento
+*/
+
+
+/* Droid Serif */
+
+@font-face {
+    font-family: 'Droid Serif Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/DroidSerif-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Droid Serif Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/DroidSerif-Italic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Droid Serif Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/DroidSerif-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Droid Serif Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/DroidSerif-BoldItalic.woff') format('woff');
+}
+
+
+/* Montserrat */
+
+@font-face {
+    font-family: 'Montserrat Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat Light';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/Montserrat-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/Montserrat-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/Montserrat-Italic.ttf') format('truetype');
+}

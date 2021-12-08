@@ -1,0 +1,112 @@
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorAssemblyInfo.cache
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorAssemblyInfo.cs
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\staticwebassets\Jambo_dev.StaticWebAssets.Manifest.cache
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\staticwebassets\Jambo_dev.StaticWebAssets.xml
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\scopedcss\bundle\Jambo_dev.styles.css
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.TagHelpers.input.cache
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.TagHelpers.output.cache
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorCoreGenerate.cache
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Razor\Views\Shared\_Template.cshtml.g.cs
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorTargetAssemblyInfo.cs
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.dll
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\ref\Jambo_dev.dll
+C:\Users\Lucas\Desktop\ASP CORE\Jambo_dev\obj\Debug\net5.0\Jambo_dev.pdb
+C:\Users\Lucas\Desktop\Jambo_dev\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lucas\Desktop\Jambo_dev\bin\Debug\net5.0\appsettings.json
+C:\Users\Lucas\Desktop\Jambo_dev\bin\Debug\net5.0\Jambo_dev.exe
+C:\Users\Lucas\Desktop\Jambo_dev\bin\Debug\net5.0\Jambo_dev.deps.json
+C:\Users\Lucas\Desktop\Jambo_dev\bin\Debug\net5.0\Jambo_dev.runtimeconfig.json
+C:\Users\Lucas\Desktop\Jambo_dev\bin\Debug\net5.0\Jambo_dev.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\Jambo_dev\bin\Debug\net5.0\Jambo_dev.dll
+C:\Users\Lucas\Desktop\Jambo_dev\bin\Debug\net5.0\ref\Jambo_dev.dll
+C:\Users\Lucas\Desktop\Jambo_dev\bin\Debug\net5.0\Jambo_dev.pdb
+C:\Users\Lucas\Desktop\Jambo_dev\bin\Debug\net5.0\Jambo_dev.Views.dll
+C:\Users\Lucas\Desktop\Jambo_dev\bin\Debug\net5.0\Jambo_dev.Views.pdb
+C:\Users\Lucas\Desktop\Jambo_dev\bin\Debug\net5.0\MailKit.dll
+C:\Users\Lucas\Desktop\Jambo_dev\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Lucas\Desktop\Jambo_dev\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorAssemblyInfo.cache
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorAssemblyInfo.cs
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\staticwebassets\Jambo_dev.StaticWebAssets.Manifest.cache
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\staticwebassets\Jambo_dev.StaticWebAssets.xml
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\scopedcss\bundle\Jambo_dev.styles.css
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.TagHelpers.input.cache
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.TagHelpers.output.cache
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorCoreGenerate.cache
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Razor\Views\Shared\_Template.cshtml.g.cs
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorTargetAssemblyInfo.cs
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.Views.pdb
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.csproj.CopyComplete
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.dll
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\ref\Jambo_dev.dll
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.pdb
+C:\Users\Lucas\Desktop\Jambo_dev\obj\Debug\net5.0\Jambo_dev.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\todos\Jambo_dev\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lucas\Desktop\todos\Jambo_dev\bin\Debug\net5.0\appsettings.json
+C:\Users\Lucas\Desktop\todos\Jambo_dev\bin\Debug\net5.0\Jambo_dev.exe
+C:\Users\Lucas\Desktop\todos\Jambo_dev\bin\Debug\net5.0\Jambo_dev.deps.json
+C:\Users\Lucas\Desktop\todos\Jambo_dev\bin\Debug\net5.0\Jambo_dev.runtimeconfig.json
+C:\Users\Lucas\Desktop\todos\Jambo_dev\bin\Debug\net5.0\Jambo_dev.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\todos\Jambo_dev\bin\Debug\net5.0\Jambo_dev.dll
+C:\Users\Lucas\Desktop\todos\Jambo_dev\bin\Debug\net5.0\ref\Jambo_dev.dll
+C:\Users\Lucas\Desktop\todos\Jambo_dev\bin\Debug\net5.0\Jambo_dev.pdb
+C:\Users\Lucas\Desktop\todos\Jambo_dev\bin\Debug\net5.0\Jambo_dev.Views.dll
+C:\Users\Lucas\Desktop\todos\Jambo_dev\bin\Debug\net5.0\Jambo_dev.Views.pdb
+C:\Users\Lucas\Desktop\todos\Jambo_dev\bin\Debug\net5.0\MailKit.dll
+C:\Users\Lucas\Desktop\todos\Jambo_dev\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Lucas\Desktop\todos\Jambo_dev\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorAssemblyInfo.cache
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorAssemblyInfo.cs
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\staticwebassets\Jambo_dev.StaticWebAssets.Manifest.cache
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\staticwebassets\Jambo_dev.StaticWebAssets.xml
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\scopedcss\bundle\Jambo_dev.styles.css
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.TagHelpers.input.cache
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.TagHelpers.output.cache
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorCoreGenerate.cache
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Razor\Views\Shared\_Template.cshtml.g.cs
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.RazorTargetAssemblyInfo.cs
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.Views.pdb
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.csproj.CopyComplete
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.dll
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\ref\Jambo_dev.dll
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.pdb
+C:\Users\Lucas\Desktop\todos\Jambo_dev\obj\Debug\net5.0\Jambo_dev.genruntimeconfig.cache

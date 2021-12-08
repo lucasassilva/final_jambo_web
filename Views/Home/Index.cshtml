@@ -1,0 +1,267 @@
+﻿@model Jambo_dev.Models.EmailModel
+@{
+    ViewBag.Title = "Jambo";
+    Layout = "~/Views/Shared/_Layout.cshtml";   
+}
+<nav class="navbar navbar-expand-md navbar-dark bg-default fixed-left">
+        <a class="navbar-brand js-scroll-trigger" href="#page-up">
+            <img src="@Url.Content("~/img/logo/logo.png")" alt="...">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav">
+
+                <li id="nav-item-hr" class="nav-item">
+                    @Html.ActionLink("Sobre", null, null, null, 
+                    new { @class = "nav-link js-scroll-trigger text-white", @href = "#about" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Serviços", null, null, null, 
+                    new { @class = "nav-link js-scroll-trigger text-white", @href = "#service" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Download", null, null, null, 
+                    new { @class = "nav-link js-scroll-trigger text-white", @href = "#download" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Equipe", null, null, null, 
+                    new { @class = "nav-link js-scroll-trigger text-white", @href = "#team" })
+                </li>
+                <li class="nav-item mb-5">
+                    @Html.ActionLink("Contato", null, null, null, 
+                    new { @class = "nav-link js-scroll-trigger text-white", @href = "#contact" })
+                </li>
+                <div class="text-center">
+                    <a href="@Url.Content("#")">
+                        <i id="social-fb" class="fa fa-facebook-square fa-3x social"></i>
+                    </a>
+                    <a href="@Url.Content("#")">
+                        <i id="social-tw" class="fa fa-twitter-square fa-3x social"></i>
+                    </a>
+                    <a href="@Url.Content("#")">
+                        <i id="social-gp" class="fa fa-google-plus-square fa-3x social"></i>
+                    </a>
+                </div>
+           </ul>
+     </div>
+</nav>
+
+<header class="text-white">
+    <div class="container text-center intro">
+        <div class="col-sm-12">
+            <h1 class="text-uppercase">Bem vindo a <span class="text-uppercase">@ViewBag.Title</span></h1>
+            <p class="text-intro">
+                <em>"Facilitando a sua <span class="text-default">busca</span>"</em>
+            </p>
+        </div>
+    </div>
+</header>
+
+ <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 mx-auto">
+                    <h2 class="text-default text-uppercase" data-aos="fade-up">
+                        Sobre
+                    </h2>
+                    <hr>
+                    <p class="lead text-indent text-justify" data-aos="fade-up">O  projeto  Jambo  é  uma  ferramenta  para  
+                         auxiliar  em  pesquisas  variadas com  fins estudantis, a ideia inicial é capturar informações da 
+                         internet e trazer para o usuário de forma simples, direta e sem distrações. Todo o projeto foi 
+                         desenvolvido utilizando técnicas de Web Scraping ou raspagem de dados assim como controle de 
+                         dados e expressões regulares, foi utilizado a metodologia ágil Kanban com a técnica dos  cartões  
+                         coloridos para aprimorar  e  agilizar  o desenvolvimento do código  em  si. É possível  fazer  pesquisas 
+                         variadas  de  acordo  com  o  tema  inserido  e  salvar  em  um arquivo para consultas posteriores. 
+                 </div>
+            </div>
+        </div>
+</section>
+
+ <section id="service" class="bg-dark text-white">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 mx-auto">
+                    <h2 class="text-default text-uppercase" data-aos="fade-up">
+                        Serviços
+                     </h2>
+                    <hr class="bg-light" data-aos="fade-up">
+                </div>
+
+                <div class="row col-sm-8 mx-auto text-center">
+
+                    <div class="col-sm-4" data-aos="fade-up">
+                        <div class="mb-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" height="90px" viewBox="0 0 24 24" width="90px" 
+                            fill="#FFFFFF"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 
+                            11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 
+                            4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+                        </div>
+                        <p class="lead">Busca de dados</p>    
+                    </div>
+
+                    <div class="col-sm-4" data-aos="fade-up">
+                        <div class="mb-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="90px" 
+                            viewBox="0 0 24 24" width="90px" fill="#FFFFFF"><g><path d="M0,0h24 M24,24H0" fill="none"/>
+                            <path d="M7,6h10l-5.01,6.3L7,6z M4.25,5.61C6.27,8.2,10,13,10,13v6c0,0.55,0.45,1,1,1h2c0.55,0,1-0.45
+                            ,1-1v-6 c0,0,3.72-4.8,5.74-7.39C20.25,4.95,19.78,4,18.95,4H5.04C4.21,4,3.74,4.95,4.25,5.61z"/>
+                            <path d="M0,0h24v24H0V0z" fill="none"/></g></svg>
+                        </div>
+                        <p class="lead">Filtragem de dados</p>
+                    </div>
+
+                    <div class="col-sm-4" data-aos="fade-up">
+                        <div class="mb-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" height="90px" viewBox="0 0 24 24" width="90px" fill="#FFFFFF">
+                            <path d="M0 0h24v24H0V0z" fill="none"/><path d="M2 20h20v-4H2v4zm2-3h2v2H4v-2zM2 4v4h20V4H2zm4 3H4V5h2v2zm-4 
+                            7h20v-4H2v4zm2-3h2v2H4v-2z"/></svg>
+                        </div>
+                        <p class="lead">Armazenamento de dados</p>                 
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+</section>
+
+<section id="download">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 mx-auto">
+                <h2 class="text-default text-uppercase" data-aos="fade-up">
+                    Download
+                </h2>
+                <hr data-aos="fade-up">
+                <div class="col-sm-12 text-center" data-aos="zoom-in">
+                    <a href="@Url.Content("https://github.com/lucasassilva/teste/archive/refs/heads/main.zip")"
+                     class="btn btn-store" download>
+                        <span class="fa fa-windows fa-3x pull-left"></span>
+                        <span class="btn-caption">Download</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="team" class="bg-dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 mx-auto">
+                    <h2 class="text-default text-uppercase" data-aos="fade-up">
+                        Equipe
+                    </h2>
+                    <hr class="bg-light" data-aos="fade-up">
+                </div>
+            </div>
+            <div class="row col-sm-8 mx-auto" data-aos="zoom-in-down">
+                <div class="col-sm-6 text-center text-white img-default">
+                    <img class="rounded" src="@Url.Content("https://via.placeholder.com/235")">
+                    <h4>Lucas Alves</h4>
+                    <p>Full Stack</p>
+                </div>
+                <div class="col-sm-6 text-center text-white img-default" data-aos="zoom-in-down">
+                    <img class="rounded" src="@Url.Content("https://via.placeholder.com/235")">
+                    <h4>Caio Matheus</h4>
+                    <p>Full Stack</p>
+                </div>
+            </div>
+        </div>
+</section>
+
+<section id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 mx-auto">
+                <h2 class="text-default text-uppercase" data-aos="fade-up">Contato</h2>
+                <hr>
+            </div>
+
+            <div class="mx-auto" id="full-screen-spin"></div>
+            
+           @{ Html.BeginForm("SendEmail","Home", FormMethod.Post, new{@class="col-sm-8 mx-auto",@name="contact", @id="contact"}); }
+                 
+                <div class="form-group" data-aos="fade-up">
+                    @Html.TextBoxFor(model=>model.first_name, new {@class="form-control form-control-lg",@placeholder="Nome", 
+                    @autocomplete = "off",@id="first_name", @name="first_name",ng_model = "user.first_name",ng_maxlenght="255",
+                    ng_required="true"})
+                    <span class="text-danger" ng-show="contact.first_name.$error.required && contact.first_name.$dirty">
+                        O campo nome é obrigatório
+                    </span>
+                    <span class="text-danger" ng-show="contact.first_name.$error.maxlength">
+                        O campo nome é permitido no máximo 255 caracteres
+                    </span>
+                </div>
+
+                <div class="form-group" data-aos="fade-up">
+                   @Html.TextBoxFor(model=>model.last_name, new {@class="form-control form-control-lg",@placeholder="Sobrenome", 
+                        @autocomplete = "off",@id="last_name", @name="last_name",ng_model = "user.last_name",ng_maxlenght="255",
+                        ng_required="true"})
+                    <span class="text-danger" ng-show="contact.last_name.$error.required && contact.last_name.$dirty">
+                        O campo sobrenome é obrigatório
+                    </span>
+                    <span class="text-danger" ng-show="contact.last_name.$error.maxlength">
+                        O campo sobrenome é permitido no máximo 255 caracteres
+                    </span>
+                </div>
+
+                <div class="form-group" data-aos="fade-up">
+                    @Html.TextBoxFor(model=>model.email, new {@class="form-control form-control-lg",@type="email",@placeholder="E-mail", 
+                    @autocomplete = "off", @id="email", @name="email",ng_model = "user.email",ng_maxlenght="255",
+                    ng_required="true"})
+                    <span class="text-danger" ng-show="contact.email.$error.required && contact.email.$dirty">
+                        O campo e-mail é obrigatório
+                    </span>
+                    <span class="text-danger" ng-show="contact.email.$error.email">
+                        O campo e-mail é inválido
+                    </span>
+                    <span class="text-danger" ng-show="contact.email.$error.maxlength">
+                        O campo e-mail é permitido no máximo 255 caracteres
+                    </span>
+                </div>
+
+                <div class="form-group" data-aos="fade-up"  data-aos-offset="-200">
+                    @Html.TextBoxFor(model=> model.subject, new {@class="form-control form-control-lg",@placeholder="Assunto", 
+                    @autocomplete = "off",@id="subject", @name="subject",ng_model = "user.subject",ng_maxlenght="255",
+                    ng_required="true"})
+                    <span class="text-danger" ng-show="contact.subject.$error.required && contact.subject.$dirty">
+                        O campo assunto é obrigatório
+                    </span>
+                    <span class="text-danger" ng-show="contact.subject.$error.maxlength">
+                        O campo assunto é permitido no máximo 255 caracteres
+                    </span>
+                </div>
+
+                <div class="form-group" data-aos="fade-up" data-aos-offset="-200">
+                    @Html.TextAreaFor(model=>model.message, new {@class="form-control form-control-lg",@placeholder="Mensagem", 
+                    @autocomplete = "off",@id="message", @name="message", @rows="3", ng_model = "user.message",ng_maxlenght="255",
+                    ng_required="true"})
+                    <span class="text-danger" ng-show="contact.message.$error.required && contact.message.$dirty">
+                        O campo mensagem é obrigatório
+                    </span>
+                    <span class="text-danger" ng-show="contact.message.$error.maxlength">
+                        O campo mensagem é permitido no máximo 255 caracteres
+                    </span>
+                </div> 
+
+                <div data-aos="fade-up" data-aos-offset="-200">
+                     <button type="submit" ng-disabled="contact.$invalid"
+                        class="btn btn-lg btn-dark btn-block">Enviar</button>
+                </div>
+
+           @{ Html.EndForm(); }
+
+        </div>
+    </div>
+</section>
+
+<footer class="py-5 bg-dark">
+    <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; @ViewBag.Title @DateTime.Now.Year</p>
+    </div>
+</footer>
+
+
+
